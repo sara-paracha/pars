@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 import time
 import sys
 import streamlit as st
-from webdriver_manager.chrome import ChromeDriverManager
+# from webdriver_manager.chrome import ChromeDriverManager
 
 # import os
 # from datetime import datetime
